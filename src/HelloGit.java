@@ -8,4 +8,9 @@ public class HelloGit {
         System.out.println("Hello Git");
         System.out.println("Hello Git22222");
     }
+
+    public void printSmth3() {
+        System.out.println("Hello Git");
+        System.out.println("Hello Git22222");
+    }
 }
