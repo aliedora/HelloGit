@@ -10,5 +10,11 @@ public class HelloGit {
     }
 
     public void printSmth2() {
+
     }
+
+    public void printSmth444() {
+    }
+
+
 }
