@@ -16,5 +16,8 @@ public class HelloGit {
     public void printSmth444() {
     }
 
+    public void printSmth44() {
+    }
+
 
 }
